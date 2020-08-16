@@ -1,5 +1,5 @@
 def reverse_each_world(sentence)
-  sentence.each{|s| s.split.reverse}.join("")
+  sentence.split.each{|s| s.reverse}.join("")
   
   
 end
