@@ -1,4 +1,4 @@
-def reverse_each_world(sentenses)
+def reverse_each_world(sentence)
   
   
 end
